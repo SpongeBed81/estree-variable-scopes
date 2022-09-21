@@ -1,6 +1,6 @@
 {
   "name": "estree-variable-scopes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An NPM package that shows the top scope of defined variables and what variable can access to another specific variable",
   "main": "index.js",
   "scripts": {

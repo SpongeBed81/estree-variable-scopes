@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# estree-vaiable-scopes
+# estree-variable-scopes
 
 **An NPM package that shows the top scope of defined variables and what variable can access to another specific variable**
 
