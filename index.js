@@ -1,0 +1,1 @@
+export { canAccess, getVariables } from "./src/main.js"
